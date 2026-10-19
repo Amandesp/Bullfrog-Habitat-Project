@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This project uses Geographic Information Systems (GIS) and QGIS to identify areas in Concrete, Washington, that may provide suitable habitat for American bullfrogs, an invasive species in Washington State.
+This project was completed as part of a GIS and Mapping course to analyze potential habitat for American bullfrogs, an invasive species in Washington State.
 
-The goal was to identify areas that meet environmental conditions associated with bullfrog habitat, including proximity to freshwater, slow-moving streams, and vacant or undeveloped land.
+Bullfrogs are amphibians that require freshwater and tend to prefer still or slow-moving water, particularly in areas surrounded by undeveloped land. The goal of this project was to use GIS tools and spatial analysis to identify areas that may provide suitable bullfrog habitat in Concrete, Washington.
 
-By combining multiple geographic datasets and applying spatial analysis techniques, I created a map highlighting potential bullfrog habitat zones.
+Using data on waterbodies, streams, elevation, and land use, I developed and ran a conceptual spatial model in QGIS. The analysis involved creating buffers, analyzing and reclassifying slope, selecting suitable land-use areas, and combining spatial datasets using union and intersection operations. The project also involved creating maps to communicate the spatial analysis results.
 
 ## Final Map
 
@@ -49,9 +49,11 @@ The analysis was performed in QGIS using a series of spatial processing steps.
 
 ## Findings
 
-The final map highlights areas around Concrete, Washington, that meet the project's habitat suitability criteria.
+The map identifies areas around Concrete, Washington, that may provide suitable habitat for invasive bullfrogs. Bullfrogs require freshwater environments and tend to prefer lakes, ponds, and slow-moving streams, particularly in areas surrounded by undeveloped or open land.
 
-This project demonstrates how GIS can combine geographic and environmental datasets to identify locations for further ecological investigation. It also demonstrates the use of spatial buffers, terrain analysis, attribute filtering, and overlay operations to investigate an environmental question.
+Using elevation, land-use, and waterbody data, the QGIS spatial analysis model identifies locations that meet the project's habitat suitability criteria. The green shaded areas represent potential bullfrog habitat based on these conditions.
+
+These results indicate areas that may be suitable for bullfrogs, not confirmed populations. Field surveys would be needed to verify whether bullfrogs are present in the identified locations.
 
 ## Limitations
 
