@@ -10,8 +10,8 @@ By combining multiple geographic datasets and applying spatial analysis techniqu
 
 ## Final Map
 
-![Potential Bullfrog Habitat in Concrete, Washington](<img width="861" height="606" alt="Project Map" src="https://github.com/user-attachments/assets/bf37ef3a-9985-4c9e-b365-964edd358448" />
-)
+<img width="861" height="606" alt="Project Map" src="https://github.com/user-attachments/assets/bf37ef3a-9985-4c9e-b365-964edd358448" />
+
 
 *Green areas represent locations identified by the analysis as potential bullfrog habitat.*
 
